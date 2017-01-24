@@ -1536,7 +1536,7 @@ function UI.DropDown_Init(level)
   level = level or 1;
   if (level == 1) then --and (frame == 1) then
     info.isTitle = 1
-    info.text = "Jmrmr Azeroth Guide"
+    info.text = "Liinx's Azeroth Guide"
     info.notCheckable = true
     UIDropDownMenu_AddButton(info, level)
     info.isTitle = false
