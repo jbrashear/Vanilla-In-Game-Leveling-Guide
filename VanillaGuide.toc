@@ -10,9 +10,9 @@
 ## X-Credits: Joana/Mancow for the guide itself.
 ## X-Category: Quests
 ## X-Date: 2011-03-20
-## X-ReleaseDate: 2011-03-20
+## X-ReleaseDate: 2017-01-23
 ## X-Email: jason4mail@gmail.com
-## X-Website: http://vanillaguide.googlecode.com
+## X-Website: https://github.com/jbrashear/Vanilla-In-Game-Leveling-Guide
 ## X-Embeds: Ace2, FuBar-Plugin-2.0, Tablet-2.0
 
 ## OptionalDeps: Ace2, FuBar, Tablet-2.0
