@@ -18,7 +18,7 @@ VGuideSteps = {
     pID = 1, nID = 11,
     itemCount = 15,
     items = {
-      [1] = { str = "Filthy Americans Guild Leveling Guide. Read the Intro to learn the colors for leveling." },
+      [1] = { str = "Filthy Americans Guild Leveling Guide. Read the Intro to learn the colors for leveling. Questions? Send Liinx a Message. For you Coop." },
       [2] = { str = "." },
       [3] = { str = "#VIDEODISCLAIMER:#" },
       [4] = { str = "Here are the guide color codes:" },
