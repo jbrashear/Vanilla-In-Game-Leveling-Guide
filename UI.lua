@@ -420,7 +420,7 @@ local function SummonMainFrame(tUIoptions, tGuideValues, oDisplay)
 		fs:SetTextColor(.91, .79, .11, 1)
 		fs:SetJustifyH("CENTER")
 		fs:SetJustifyV("CENTER")
-		fs:SetText("|cccff1919Vanilla|ccceeeeeeGuide |ccca1a1a1v|ccc4a4aa1" .. version .. "|r")
+		fs:SetText("|cccff1919Filthy|ccceeeeeeAmerican Guide |ccca1a1a1v|ccc4a4aa1" .. version .. "|r")
 		return fs
     end
 	local function Render_Button(fParent, sName, nWidth, nHeight, tTexture)
@@ -1258,9 +1258,9 @@ local function SummonAboutFrame(fParent)
 	local sAboutText = "|cccff1919Vanilla|ccceeeeeeGuide |ccca1a1a1v|ccc4a4aa1" ..
 		version .. "|r" ..
 		"\n\n\n|ccca1a1a1A 'remake' of the original|r" ..
-		"\n|cccff1919J|ccceeeeeeoana`s |cccff1919Horde|ccceeeeee Leveling Guide.|r" ..
+		"\n|cccff1919J|ccceeeeeeoana`s |cccff1919Alliance|ccceeeeee Leveling Guide.|r" ..
 		"\n|ccca1a1a1in an in-game addon.\n" ..
-		"\n                           Made in |ccca11919mrmr|r|ccca1a1a1!|r"
+		"\n                           Made in |ccca11919Liinx|r|ccca1a1a1!|r"
 
 	local function Render_AF(fParent, sName)
 		local frame = CreateFrame("Frame", sName)

@@ -69,7 +69,7 @@ function VGuideFu:OnInitialize()
 	--self.hasIcon = true
 	--self.optionsTable = BugSack:ReturnOptionsTable()
 	
-	self.title = "VanillaGuide"
+	self.title = "Filthy American Guide"
 	self.hasIcon = "Interface\\AddOns\\VanillaGuide\\Textures\\FuBar_Icon.tga"
 	self.cannotHideText = true
 	self.overrideMenu = false
