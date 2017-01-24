@@ -2,7 +2,7 @@
 ----- VanillaGuide -----
 ------------------
 SlashCommands.lua
-Authors: mrmr
+Authors: Liinx
 Version: 1.00
 ------------------------------------------------------
 Description: 
