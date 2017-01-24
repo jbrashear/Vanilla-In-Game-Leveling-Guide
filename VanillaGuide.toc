@@ -3,7 +3,7 @@
 ## Title: Filthy American Guide |cff7fff7f -Ace2-|r
 ## Notes: Step-by-Step 1-60 Guide, in an Ace addon.
 ## Author: mrmr
-## Version: 1.03
+## Version: 1.03-Liinx
 ## DefaultState: enabled
 ## LoadOnDemand: 0
 
